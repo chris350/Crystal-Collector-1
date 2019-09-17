@@ -3,12 +3,19 @@
 }
 
 body {
-  background: url(./../images/crystalCaveBackground1.jpg);
+  background: url(./../images/caveBackground.jpg);
   font-family: Georgia, 'Times New Roman', Times, serif;
-  color: red;
+  color: white;
   background-size: 100%;
 }
 h1 {
+  font-family: 'Ravi Prakash', cursive;
   text-align: center;
-  font-size: 450%;
+  font-size: 550%;
 }
+
+/* h2 {
+  font-family: 'Ravi Prakash', cursive;
+  font-size: 250%;
+  color: red
+} */
