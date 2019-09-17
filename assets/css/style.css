@@ -1,0 +1,14 @@
+.instructions {
+  text-align: center;
+}
+
+body {
+  background: url(./../images/crystalCaveBackground1.jpg);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: red;
+  background-size: 100%;
+}
+h1 {
+  text-align: center;
+  font-size: 450%;
+}
