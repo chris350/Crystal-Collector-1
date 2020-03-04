@@ -1,4 +1,4 @@
-# unit-4-game
+# Crystal Collector
 https://ehamil79.github.io/Crystal-Collector/
 
 
