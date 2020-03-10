@@ -12,10 +12,16 @@ h1 {
   font-family: 'Ravi Prakash', cursive;
   text-align: center;
   font-size: 550%;
+  color: red
 }
 
-/* h2 {
+h2 {
   font-family: 'Ravi Prakash', cursive;
   font-size: 250%;
   color: red
-} */
+}
+
+p {
+  font-family: 'Ravi Prakash', cursive;
+  color: red;
+}
